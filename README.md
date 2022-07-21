@@ -1,23 +1,7 @@
 # Election Smart contract
 
-Praticamente todos os acordos que são feitos hoje em dia necessitam de um terceiro para garantir que ambos os lados cumpram suas obrigações!
-Imagine a seguinte situação: Você acabou de se mudar para o Brasil e precisa comprar muitas coisas porém, você não tem todo esse dinheiro. A sua única saída seria apelar para um cartão de crédito pois é praticamente a única forma de comprar parcelado. 
-Mas para ter esse cartão você terá que abrir uma conta em um banco, e para isso terá que  enviar muitas documentações, esperar eles aprovarem sua conta e depois aguardar um tempo até que eles julguem que você tem o perfil para ter um cartão de crédito. No fim, depois de muito tempo você conseguiu o cartão, mas o limite de crédito aprovado foi muito baixo devido ao motivo da sua conta ser recente.
-
-Você consegue perceber que uma transação entre duas partes (você e a loja) acaba se tornando algo muito mais demorado pelo motivo de ter que envolver um terceiro para garantir o cumprimento de ambos os lados?
-
-Os smart contracts surgiram para resolver esse problema! :)
-
-com ele, você não depende de um terceiro para garantir que ambos os lados cumpram o combinado e sim de algoritmos baseados em lógica e matemática!
-
-São muitos os benefícios então não irei citar todos para o texto não ficar muito longo, porém os principais são:
-- Você não precisa de um terceiro para garantir que ambos os lados cumpram um acordo.
-- Sem precisar de um terceiro, o processo se torna muito mais rápido.
-- Sem precisar de um terceiro, você economiza dinheiro (imagina vender uma casa sem precisar de uma corretora).
-- Não é possível alterar nada após o smart contract ser lançado. (então terá que ser cumprido o que foi acordado).
-e por ai vai...
-
-Foi desenvolvido como exemplo esse pequeno smart contract simulando um sistema de votação: 
+### Tecnologia utilizada:
+- Solidity
 
 
 ## Smart contract explicado:
